@@ -10,6 +10,12 @@ public class Main {
         double originalNumber = 100.78;
         int numberOfDoubling = 1;
         String doublingCounter = "X";
+
+        char uppercaseA = 65;
+        char lowercaseL = 108;
+        char lowercaseD = 100;
+        char lowercaseI = 105;
+        char lowercaseN = 110;
     /*
         int randomInt = 66;
         long randomLong = 200L;
@@ -79,7 +85,7 @@ public class Main {
     //    trueOrFalse = someText;    // incompatible types
     */
 
-        System.out.print((char)65 + "" + (char)108 + "" + (char)100 + "" + (char)105 + "" + (char)110 + "\n\n");
+        System.out.print(uppercaseA + "" + lowercaseL + "" + lowercaseD + "" + lowercaseI + "" + lowercaseN + "\n\n");
 
         System.out.println(textMessage + "\n");
 
